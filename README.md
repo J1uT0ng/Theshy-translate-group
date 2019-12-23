@@ -1,6 +1,6 @@
 # Theshy中韩翻译小组
 
-![Theshy](https://github.com/J1uT0ng/Theshy-translate-group/tree/master/images/Theshy.jpg)  
+![Theshy](https://github.com/J1uT0ng/Theshy-translate-group/blob/master/images/Theshy.jpg)  
 
 众人拾柴火焰高，小伙伴们快来参与Theshy视频的翻译吧
 * 韩语字幕是YouTube自动生成的，可能并不是特别准确
