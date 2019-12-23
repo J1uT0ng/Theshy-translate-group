@@ -16,7 +16,7 @@
     - [待翻译_中文_Theshy_191222与runner谈话中](待翻译_中文_Theshy_191222与runner谈话中.srt) 
 * [韩语_Theshy_191222与runner谈话后](韩语_Theshy_191222与runner谈话后.srt) 【[B站视频链接](https://www.bilibili.com/video/av80288275/)】 
     - [待翻译_中文_Theshy_191222与runner谈话后](待翻译_中文_Theshy_191222与runner谈话后.srt) 
-* [韩语_Theshy_191222号直播RANK录像第一部分](韩语_Theshy_191222号直播RANK录像第一部分.srt) 【[B站视频链接](https://www.bilibili.com/video/av80277834/)】 
-    - [待翻译_中文_Theshy_191222号直播RANK录像第二部分](待翻译_中文_Theshy_191222号直播RANK录像第二部分.srt) 
+* [韩语_Theshy_191222号直播RANK录像第一部分](韩语_Theshy_191222号直播RANK录像第一部分.srt) 【[B站视频链接](https://www.bilibili.com/video/av80301401/)】 
+    - [待翻译_中文_Theshy_191222号直播RANK录像第一部分](待翻译_中文_Theshy_191222号直播RANK录像第一部分.srt) 
 * [韩语_Theshy_191222号直播RANK录像第二部分](韩语_Theshy_191222号直播RANK录像第二部分.srt) 【[B站视频链接](https://www.bilibili.com/video/av80277834/)】 
     - [待翻译_中文_Theshy_191222号直播RANK录像第二部分](待翻译_中文_Theshy_191222号直播RANK录像第二部分.srt) 
