@@ -10,9 +10,9 @@
 
 以下是字幕文件：
 
-* [韩语_Theshy_191222与runner谈话前](韩语_Theshy_191222与runner谈话前.srt) 
+* [韩语_Theshy_191222与runner谈话前](韩语_Theshy_191222与runner谈话前.srt) 【[B站视频链接](https://www.bilibili.com/video/av80300551/)】
     - [待翻译_中文_Theshy_191222与runner谈话前](待翻译_中文_Theshy_191222与runner谈话前.srt) 
-* [韩语_Theshy_191222与runner谈话中](韩语_Theshy_191222与runner谈话中.srt) 
+* [韩语_Theshy_191222与runner谈话中](韩语_Theshy_191222与runner谈话中.srt) 【[B站视频链接](https://www.bilibili.com/video/av80288979/)】 
     - [待翻译_中文_Theshy_191222与runner谈话中](待翻译_中文_Theshy_191222与runner谈话中.srt) 
-* [韩语_Theshy_191222与runner谈话后](韩语_Theshy_191222与runner谈话后.srt) 
+* [韩语_Theshy_191222与runner谈话后](韩语_Theshy_191222与runner谈话后.srt) 【[B站视频链接](https://www.bilibili.com/video/av80288275/)】 
     - [待翻译_中文_Theshy_191222与runner谈话后](待翻译_中文_Theshy_191222与runner谈话后.srt) 
