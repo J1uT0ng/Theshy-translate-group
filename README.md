@@ -22,5 +22,7 @@
     - [待翻译_中文_Theshy_191222号直播RANK录像第二部分](待翻译_中文_Theshy_191222号直播RANK录像第二部分.srt) 
 
 
+* [韩语_Part3_剑姬](韩语_Part3_剑姬.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=3)】 
+    - [待翻译_中文_Part3_剑姬](待翻译_中文_Part3_剑姬.srt) 
 * [韩语_Part4_大乱斗到结束](韩语_Part4_大乱斗到结束.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=4)】 
     - [待翻译_中文_Part4_大乱斗到结束](待翻译_中文_Part4_大乱斗到结束.srt) 
