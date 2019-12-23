@@ -8,7 +8,7 @@
 * 如果你翻译中文，字幕文件已经帮你创建好了，时间轴就不用改动了
 * 后续的字幕会上传
 
-以下是字幕文件：
+以下是字幕文件&视频链接：
 
 * [韩语_Theshy_191222与runner谈话前](韩语_Theshy_191222与runner谈话前.srt) 【[B站视频链接](https://www.bilibili.com/video/av80300551/)】
     - [待翻译_中文_Theshy_191222与runner谈话前](待翻译_中文_Theshy_191222与runner谈话前.srt) 
