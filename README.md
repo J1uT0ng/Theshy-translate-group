@@ -25,7 +25,7 @@
 以下是高清完整版的字幕文件&视频链接：
 
 * [韩语_Part1_跟runner聊天](韩语_Part1_跟runner聊天.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=1)】 
-    - [待翻译_中文_韩语_Part1_跟runner聊天](待翻译_中文_韩语_Part1_跟runner聊天.srt) 
+    - [待翻译_中文_Part1_跟runner聊天](待翻译_中文_Part1_跟runner聊天.srt) 
 * [韩语_Part2_纳尔](韩语_Part2_纳尔.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=2)】 
     - [待翻译_中文_Part2_纳尔](待翻译_中文_Part2_纳尔.srt) 
 * [韩语_Part3_剑姬](韩语_Part3_剑姬.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=3)】 
