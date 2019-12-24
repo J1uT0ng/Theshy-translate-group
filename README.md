@@ -6,9 +6,21 @@
 * **韩语字幕是YouTube自动生成的，难免会有错误**
 * **如果你听得懂韩语，觉得韩语字幕部分有问题，可以进行修改**
 * 如果你翻译中文，字幕文件已经帮你创建好了，**时间轴就不用改动了**
-* 后续的字幕会上传
+* **感谢每一位做出贡献的小伙伴**
 
-以下是字幕文件&视频链接：
+
+以下是高清完整版的字幕文件&视频链接：
+
+* [韩语_Part1_跟runner聊天](韩语_Part1_跟runner聊天.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=1)】 
+    - [待翻译_中文_Part1_跟runner聊天](待翻译_中文_Part1_跟runner聊天.srt) 
+* [韩语_Part2_纳尔](韩语_Part2_纳尔.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=2)】 
+    - [待翻译_中文_Part2_纳尔](待翻译_中文_Part2_纳尔.srt) 
+* [韩语_Part3_剑姬](韩语_Part3_剑姬.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=3)】 
+    - [待翻译_中文_Part3_剑姬](待翻译_中文_Part3_剑姬.srt) 
+* [韩语_Part4_大乱斗到结束](韩语_Part4_大乱斗到结束.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=4)】 
+    - [待翻译_中文_Part4_大乱斗到结束](待翻译_中文_Part4_大乱斗到结束.srt) 
+
+以下是录制版字幕文件&视频链接：
 
 * [韩语_Theshy_191222与runner谈话前](韩语_Theshy_191222与runner谈话前.srt) 【[B站视频链接](https://www.bilibili.com/video/av80300551/)】
     - [待翻译_中文_Theshy_191222与runner谈话前](待翻译_中文_Theshy_191222与runner谈话前.srt) 
@@ -22,13 +34,3 @@
     - [待翻译_中文_Theshy_191222号直播RANK录像第二部分](待翻译_中文_Theshy_191222号直播RANK录像第二部分.srt) 
 
 
-以下是高清完整版的字幕文件&视频链接：
-
-* [韩语_Part1_跟runner聊天](韩语_Part1_跟runner聊天.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=1)】 
-    - [待翻译_中文_Part1_跟runner聊天](待翻译_中文_Part1_跟runner聊天.srt) 
-* [韩语_Part2_纳尔](韩语_Part2_纳尔.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=2)】 
-    - [待翻译_中文_Part2_纳尔](待翻译_中文_Part2_纳尔.srt) 
-* [韩语_Part3_剑姬](韩语_Part3_剑姬.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=3)】 
-    - [待翻译_中文_Part3_剑姬](待翻译_中文_Part3_剑姬.srt) 
-* [韩语_Part4_大乱斗到结束](韩语_Part4_大乱斗到结束.srt) 【[B站视频链接](https://www.bilibili.com/video/av80337931?p=4)】 
-    - [待翻译_中文_Part4_大乱斗到结束](待翻译_中文_Part4_大乱斗到结束.srt) 
