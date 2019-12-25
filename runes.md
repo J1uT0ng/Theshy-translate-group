@@ -161,4 +161,203 @@
 			</td>
 		  </tr>
 	</tr>
+<tr>
+	  <td rowspan="15"><img src="https://lol.qq.com/act/a20170926preseason/img/runeBuilder/runes/domination/icon-d-36x36.png"/>主宰(지배)</td>
+		<tr>
+			<td>电刑(감전)</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>掠食者(포식자)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>黑暗收割(어둠의 수확)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>丛刃(칼날비)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>恶意中伤(비열한 한 방)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>血之滋味(피의 맛)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>猛然冲击(돌발 일격)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>僵尸守卫(좀비 와드)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>幽灵魄罗(유령 포로)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>眼球收集器(시야 수집)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>贪欲猎手(굶주린 사냥꾼)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>灵性猎手(영리한 사냥꾼)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>无情猎手(끈질긴 사냥꾼)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>终极猎人(궁극의 사냥꾼)</td>
+			<td>	
+			</td>
+		</tr>
+	</tr> 
+	<tr>
+	  <td rowspan="13"><img src="https://lol.qq.com/act/a20170926preseason/img/runeBuilder/runes/sorcery/icon-s-36x36.png"/>巫术(마법)</td>
+	  	<tr>
+			<td>召唤：艾黎(콩콩이 소환)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>奥术彗星(신비로운 유성)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>相位猛冲(난입)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>无效化之法球(무효화 구체)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>法力流系带(마나순환 팔찌)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>灵光披风(빛의 망토)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>超然(깨달음)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>迅捷(기민함)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>绝对专注(절대 집중)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>焦灼(주문 작열)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>水上行走(물 위를 걷는 자)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>风暴聚集(폭풍의 결집)</td>
+			<td>	
+			</td>
+		</tr>
+	</tr>
+	<tr>
+	  <td rowspan="13"><img src="https://lol.qq.com/act/a20170926preseason/img/runeBuilder/runes/inspiration/icon-i-36x36.png"/>启迪(영감)</td>
+		<tr>
+			<td>冰川增幅(빙결 강화)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>启封的秘籍(봉인 풀린 주문서)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>全能石(프로토타입: 만능의 돌)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>海克斯科技闪现罗网(마법공학 점멸기)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>神奇之鞋(마법의 신발)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>完美时机(완벽한 타이밍)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>未来市场(외상)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>小兵去质器(미니언 해체분석기)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>饼干配送(비스킷 배달)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>星界洞悉(우주적 통찰력)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>行进速率(쾌속 접근)</td>
+			<td>	
+			</td>
+		</tr>
+		<tr>
+			<td>时间扭曲补药(시간 왜곡 물약)</td>
+			<td>	
+			</td>
+		</tr>
+	</tr>
 </table>
